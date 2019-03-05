@@ -1,7 +1,7 @@
 # fractals
 A program that generates the various fractals using mouse position as parameter in complex plane
 
-This is a project of the graphics branch of 42, written C.
+This is a project of the graphics branch of 42, written in C.
 
 ![alt text](https://github.com/conanwu777/fractals/blob/master/fractal_preview.gif)
 
