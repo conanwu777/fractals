@@ -1,7 +1,9 @@
 # fractals
 A program that generates the various fractals using mouse position as parameter in complex plane
 
-This is a project of the graphics branch of 42, coded in C.
+This is a project of the graphics branch of 42, written C.
+
+![alt text](https://github.com/conanwu777/fractals/blob/master/fractal_preview.gif)
 
 ## Features
 * Dynamically displays complex fractols based on mouse hovering position as parameter
